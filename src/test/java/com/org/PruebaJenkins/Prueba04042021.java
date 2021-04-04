@@ -6,7 +6,7 @@ public class Prueba04042021 {
 	
 	@Test
 	public void imprimeAlgo() {
-		System.out.println("Esto es una prueba en Maven 04042021");
+		System.out.println("Esto es un cambio en Maven 04042021");
 	}
 
 
